@@ -1,0 +1,969 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-dom",
+          "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:24:44Z",
+            "owner": "react",
+            "repo": "react",
+            "stars": 247206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-canvas",
+          "description": "High performance canvas rendering for React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-27T06:00:42Z",
+            "owner": "Flipboard",
+            "repo": "react-canvas",
+            "stars": 13196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-360",
+          "description": "(archived) - Render React components in WebGL/WebVR for VR apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-12-11T10:19:14Z",
+            "owner": "facebookarchive",
+            "repo": "react-360",
+            "stars": 8701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-skia",
+          "description": "React Renderer for the Skia drawing library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:06:56Z",
+            "owner": "Shopify",
+            "repo": "react-native-skia",
+            "stars": 8506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-dom",
+          "description": "An experimental, comprehensive port of React Native to the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T00:36:23Z",
+            "owner": "vincentriemer",
+            "repo": "react-native-dom",
+            "stars": 3241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-pixi",
+          "description": "open-source, production-ready library to render high performant PIXI applications in React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-16T14:13:41Z",
+            "owner": "pixijs",
+            "repo": "pixi-react",
+            "stars": 2879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-art",
+          "description": "(archived) - React Bridge to the ART Drawing Library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-05-20T12:18:29Z",
+            "owner": "reactjs",
+            "repo": "react-art",
+            "stars": 1985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-worker-dom",
+          "description": "Experiments to see the advantages of using Web Workers to Render React Virtual DOM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-22T00:35:04Z",
+            "owner": "web-perf",
+            "repo": "react-worker-dom",
+            "stars": 947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-pixi-fiber",
+          "description": "Write PixiJS applications using React declarative style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-18T12:09:36Z",
+            "owner": "michalochman",
+            "repo": "react-pixi-fiber",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-konsul",
+          "description": "A react renderer that renders to the browser's devtools console.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T23:15:03Z",
+            "owner": "mohebifar",
+            "repo": "konsul",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-tiny-dom",
+          "description": "A minimal implementation of react-dom using react-reconciler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T09:56:31Z",
+            "owner": "jiayihu",
+            "repo": "react-tiny-dom",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-rough-fiber",
+          "description": "A React renderer for rendering hand-drawn SVGs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-28T14:49:35Z",
+            "owner": "Bowen7",
+            "repo": "react-rough-fiber",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-ol-fiber",
+          "description": "React reconciler for the OpenLayers geographic maps library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-08T12:08:25Z",
+            "owner": "giulioz",
+            "repo": "react-ol-fiber",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-skia-fiber",
+          "description": "Insanely fast 2d graphics using Skia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-25T01:44:34Z",
+            "owner": "amilajack",
+            "repo": "react-skia-fiber",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Web (+ NW & Electron)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-three-fiber",
+          "description": "React reconciler for Threejs on the web and react-native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T15:38:20Z",
+            "owner": "pmndrs",
+            "repo": "react-three-fiber",
+            "stars": 31699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-unity",
+          "description": "render React components to Unity UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T01:22:23Z",
+            "owner": "ReactUnity",
+            "repo": "core",
+            "stars": 889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-babylonjs",
+          "description": "React Renderer for Babylon.js (web and native)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-02T13:56:21Z",
+            "owner": "brianzinn",
+            "repo": "react-babylonjs",
+            "stars": 888
+          }
+        }
+      ],
+      "title": "3D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "proton-native",
+          "description": "A React environment for cross platform native desktop apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T02:21:10Z",
+            "owner": "kusti8",
+            "repo": "proton-native",
+            "stars": 10887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React NodeGUI",
+          "description": "Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-03T01:50:26Z",
+            "owner": "nodegui",
+            "repo": "react-nodegui",
+            "stars": 6181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-gtk",
+          "description": "React Native renderer for gtk powered cross platform desktop applications that run on OSX, Linux and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:57:58Z",
+            "owner": "clayrisser",
+            "repo": "react-gtk",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-qml",
+          "description": "Build native, high-performance, cross-platform applications (desktop and mobile) through a React (and/or QML) syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-04-08T16:20:52Z",
+            "owner": "longseespace",
+            "repo": "react-qml",
+            "stars": 132
+          }
+        }
+      ],
+      "title": "Desktop"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-native",
+          "description": "A framework for building native apps with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:45:59Z",
+            "owner": "react",
+            "repo": "react-native",
+            "stars": 126339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-nativescript",
+          "description": "React renderer for NativeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-23T06:47:47Z",
+            "owner": "shirakaba",
+            "repo": "react-nativescript",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-titanium",
+          "description": "React custom renderer for Appcelerator® Titanium™ SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-19T06:49:51Z",
+            "owner": "yuchi",
+            "repo": "react-titanium",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-jsbox",
+          "description": "React custom renderer for rendering native iOS UIKit with React + JSBox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-05T03:35:15Z",
+            "owner": "Rel1cx",
+            "repo": "react-jsbox",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ink",
+          "description": "React for interactive command-line apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:11:46Z",
+            "owner": "vadimdemedes",
+            "repo": "ink",
+            "stars": 39633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-blessed",
+          "description": "A react renderer for blessed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-06T19:44:11Z",
+            "owner": "Yomguithereal",
+            "repo": "react-blessed",
+            "stars": 4495
+          }
+        }
+      ],
+      "title": "Command Line Interface"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-tv",
+          "description": "React development for TV (WebOS, SmartTVs).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-03-30T15:33:14Z",
+            "owner": "raphamorim",
+            "repo": "react-tv",
+            "stars": 2032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-ape",
+          "description": "React Renderer to build UI interfaces using canvas/WebGL.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-08-21T14:05:35Z",
+            "owner": "raphamorim",
+            "repo": "react-ape",
+            "stars": 1573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-tvml",
+          "description": "React bindings to Apple's TVJS and TVML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-16T14:36:34Z",
+            "owner": "sergioramos",
+            "repo": "react-tvml",
+            "stars": 218
+          }
+        }
+      ],
+      "title": "Television"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-hardware",
+          "description": "React Hardware enables you to build firmata-based hardware applications using React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T17:54:21Z",
+            "owner": "iamdustan",
+            "repo": "react-hardware",
+            "stars": 806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-ssd1306",
+          "description": "A React Renderer for SSD1306 OLED chip on Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-07T15:24:20Z",
+            "owner": "doodlewind",
+            "repo": "react-ssd1306",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-dmx",
+          "description": "Use React components to control lights and devices with DMX channels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-24T20:09:50Z",
+            "owner": "alexanderson1993",
+            "repo": "react-dmx",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-email",
+          "description": "Build and send emails using React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T14:15:18Z",
+            "owner": "resend",
+            "repo": "react-email",
+            "stars": 19590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-html-email",
+          "description": "(unmaintained) - Create HTML email templates using React without dealing with archaic HTML elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T11:25:06Z",
+            "owner": "chromakode",
+            "repo": "react-html-email",
+            "stars": 890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oy",
+          "description": "Render HTML emails on the server with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T09:16:02Z",
+            "owner": "revivek",
+            "repo": "oy",
+            "stars": 829
+          }
+        }
+      ],
+      "title": "Email"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-pdf",
+          "description": "Create PDF files using React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:59:52Z",
+            "owner": "diegomura",
+            "repo": "react-pdf",
+            "stars": 16744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redocx",
+          "description": "Create word documents using React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-10T07:27:24Z",
+            "owner": "nitin42",
+            "repo": "redocx",
+            "stars": 1433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-fs-renderer",
+          "description": "Declaratively render a tree of files with JSX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-02-10T16:52:14Z",
+            "owner": "ericvicenti",
+            "repo": "react-fs-renderer",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-tf",
+          "description": "Render Terraform HCL code using JSX Templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-19T22:57:40Z",
+            "owner": "dmk",
+            "repo": "react-tf",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fileable",
+          "description": "Render file trees using JSX Templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-25T20:22:50Z",
+            "owner": "johnhenry",
+            "repo": "fileable",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "File"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-sketchapp",
+          "description": "render React components to Sketch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-06T00:54:06Z",
+            "owner": "airbnb",
+            "repo": "react-sketchapp",
+            "stars": 14870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-figma",
+          "description": "render React components to Figma.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-14T01:26:09Z",
+            "owner": "react-figma",
+            "repo": "react-figma",
+            "stars": 2695
+          }
+        }
+      ],
+      "title": "Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-juce",
+          "description": "Custom React renderer for JUCE C++ audio framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-14T12:51:31Z",
+            "owner": "JoshMarler",
+            "repo": "react-juce",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wax",
+          "description": "An experimental, JSX-compatible renderer for the Web Audio API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T11:39:54Z",
+            "owner": "jamesseanwright",
+            "repo": "wax",
+            "stars": 184
+          }
+        }
+      ],
+      "title": "Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phelia",
+          "description": "A reactive Slack application framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T02:53:01Z",
+            "owner": "maxchehab",
+            "repo": "phelia",
+            "stars": 1903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reacord",
+          "description": "Create interactive Discord messages using React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-02T14:54:27Z",
+            "owner": "itsMapleLeaf",
+            "repo": "reacord",
+            "stars": 782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urban-bot",
+          "description": "React for creating chatbots for any messengers (Telegram, Facebook, Slack, ...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-18T17:37:46Z",
+            "owner": "urban-bot",
+            "repo": "urban-bot",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-slack-renderer",
+          "description": "render Slack messages using React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-14T01:23:37Z",
+            "owner": "andreyvital",
+            "repo": "react-slack-renderer",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Chatbot"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "noop-renderer",
+          "description": "This is a renderer of React that doesn't have a render target output. It is useful to demonstrate the internals of the reconciler in isolation and for testing semantics of reconciliation separate from the host environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:24:44Z",
+            "owner": "react",
+            "repo": "react",
+            "stars": 247206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-test-renderer",
+          "description": "React package for snapshot testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:24:44Z",
+            "owner": "react",
+            "repo": "react",
+            "stars": 247206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Takumi",
+          "description": "Render React components to PNG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:59:41Z",
+            "owner": "kane50613",
+            "repo": "takumi",
+            "stars": 2772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-xpress",
+          "description": "React for building Node.js server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-20T00:49:50Z",
+            "owner": "reactend",
+            "repo": "reactend-express",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-ast",
+          "description": "React AST is the ultimate meta programming tool that uses react to render abstract syntax trees. It can be used to build powerful code generators and babel plugins that are easy to read and can scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-12T10:33:48Z",
+            "owner": "clayrisser",
+            "repo": "react-ast",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-x11",
+          "description": "React renderer with X11 as a target.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T02:15:49Z",
+            "owner": "sidorares",
+            "repo": "react-x11",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "workflow-react",
+          "description": "render your desktop layout with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T17:03:34Z",
+            "owner": "havardh",
+            "repo": "workflow",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React-Minecraft",
+          "description": "Create Minecraft builds using React.js components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-15T17:07:57Z",
+            "owner": "bufferhead-code",
+            "repo": "react-minecraft",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ts-graphviz/react",
+          "description": "Graphviz-dot Renderer using React.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-03-17T15:29:12Z",
+            "owner": "ts-graphviz",
+            "repo": "react",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Making-a-custom-React-renderer",
+          "description": "Tutorial on how to make a custom React renderer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T19:46:34Z",
+            "owner": "nitin42",
+            "repo": "Making-a-custom-React-renderer",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiny-react-renderer",
+          "description": "Learn you a React Renderer for Great Good.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-05T18:52:41Z",
+            "owner": "iamdustan",
+            "repo": "tiny-react-renderer",
+            "stars": 781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Render React to Embedded LCD",
+          "description": "Tutorial for building a React renderer that dynamically updates an OLED chip, based on the embeddable QuickJS intepreter, native C driver modules, and a HTML5 canvas emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-07T15:24:20Z",
+            "owner": "doodlewind",
+            "repo": "react-ssd1306",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create React Renderer",
+          "description": "open source course to learn how to build a custom react renderer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:02:45Z",
+            "owner": "clayrisser",
+            "repo": "create-react-renderer",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Learn"
+    },
+    {
+      "description": "To the extent possible under law, Chen-Tsu Lin has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:53.280Z",
+    "original_repository": "chentsulin/awesome-react-renderer",
+    "original_repository_sha": "d229139ebbf2592c079a484da672748a62bf9033",
+    "enhanced_repository": "enhansome/enhansome-react-renderer",
+    "enhanced_repository_description": null,
+    "title": "awesome-react-renderer with stars"
+  }
+}
