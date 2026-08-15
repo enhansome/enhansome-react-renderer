@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T15:44:43Z",
+            "last_commit": "2026-08-14T17:33:13Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247247
+            "stars": 247238
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-11T13:06:56Z",
             "owner": "Shopify",
             "repo": "react-native-skia",
-            "stars": 8510
+            "stars": 8512
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-01-16T14:13:41Z",
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2879
+            "stars": 2878
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2025-04-28T14:49:35Z",
             "owner": "Bowen7",
             "repo": "react-rough-fiber",
-            "stars": 445
+            "stars": 444
           }
         },
         {
@@ -213,10 +213,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T15:38:20Z",
+            "last_commit": "2026-08-14T14:40:56Z",
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 31708
+            "stars": 31712
           }
         },
         {
@@ -226,8 +226,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-30T01:22:23Z",
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T19:38:06Z",
             "owner": "ReactUnity",
             "repo": "core",
             "stars": 890
@@ -278,7 +278,7 @@
             "last_commit": "2023-11-03T01:50:26Z",
             "owner": "nodegui",
             "repo": "react-nodegui",
-            "stars": 6181
+            "stars": 6182
           }
         },
         {
@@ -323,10 +323,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T01:01:13Z",
+            "last_commit": "2026-08-14T14:57:00Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126344
+            "stars": 126346
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39650
+            "stars": 39655
           }
         },
         {
@@ -518,7 +518,7 @@
             "last_commit": "2026-08-11T14:15:18Z",
             "owner": "resend",
             "repo": "react-email",
-            "stars": 19597
+            "stars": 19607
           }
         },
         {
@@ -563,7 +563,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:59:52Z",
+            "last_commit": "2026-08-14T09:09:33Z",
             "owner": "diegomura",
             "repo": "react-pdf",
             "stars": 16746
@@ -656,7 +656,7 @@
             "last_commit": "2026-04-14T01:26:09Z",
             "owner": "react-figma",
             "repo": "react-figma",
-            "stars": 2695
+            "stars": 2694
           }
         }
       ],
@@ -769,10 +769,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T15:44:43Z",
+            "last_commit": "2026-08-14T17:33:13Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247247
+            "stars": 247238
           }
         },
         {
@@ -783,10 +783,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T15:44:43Z",
+            "last_commit": "2026-08-14T17:33:13Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247247
+            "stars": 247238
           }
         },
         {
@@ -797,10 +797,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T06:35:38Z",
+            "last_commit": "2026-08-14T19:37:39Z",
             "owner": "kane50613",
             "repo": "takumi",
-            "stars": 2797
+            "stars": 2803
           }
         },
         {
@@ -839,7 +839,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T06:22:22Z",
+            "last_commit": "2026-08-14T12:09:33Z",
             "owner": "sidorares",
             "repo": "react-x11",
             "stars": 247
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:57:40.548Z",
+    "last_updated": "2026-08-15T05:57:25.184Z",
     "original_repository": "chentsulin/awesome-react-renderer",
     "original_repository_sha": "d229139ebbf2592c079a484da672748a62bf9033",
     "enhanced_repository": "enhansome/enhansome-react-renderer",
