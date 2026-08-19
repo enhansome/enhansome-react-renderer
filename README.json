@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T11:16:23Z",
+            "last_commit": "2026-08-19T12:40:37Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247417
+            "stars": 247420
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30384844,
             "language": "JavaScript",
             "last_commit": "2022-09-27T06:00:42Z",
             "owner": "Flipboard",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76289797,
             "language": "JavaScript",
             "last_commit": "2020-12-11T10:19:14Z",
             "owner": "facebookarchive",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 425845325,
             "language": "TypeScript",
             "last_commit": "2026-08-18T19:39:28Z",
             "owner": "Shopify",
             "repo": "react-native-skia",
-            "stars": 8515
+            "stars": 8516
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112388519,
             "language": "JavaScript",
             "last_commit": "2022-12-09T00:36:23Z",
             "owner": "vincentriemer",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125637394,
             "language": "TypeScript",
             "last_commit": "2026-01-16T14:13:41Z",
             "owner": "pixijs",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12601393,
             "language": "JavaScript",
             "last_commit": "2019-05-20T12:18:29Z",
             "owner": "reactjs",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46694185,
             "language": "JavaScript",
             "last_commit": "2026-07-22T00:35:04Z",
             "owner": "web-perf",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116292940,
             "language": "JavaScript",
             "last_commit": "2025-03-18T12:09:36Z",
             "owner": "michalochman",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78808986,
             "language": "JavaScript",
             "last_commit": "2022-12-06T23:15:03Z",
             "owner": "mohebifar",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112497273,
             "language": "JavaScript",
             "last_commit": "2022-12-07T09:56:31Z",
             "owner": "jiayihu",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612493309,
             "language": "TypeScript",
             "last_commit": "2025-04-28T14:49:35Z",
             "owner": "Bowen7",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430747698,
             "language": "TypeScript",
             "last_commit": "2022-03-08T12:08:25Z",
             "owner": "giulioz",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358780229,
             "language": "TypeScript",
             "last_commit": "2023-02-25T01:44:34Z",
             "owner": "amilajack",
@@ -203,7 +217,7 @@
       "title": "Web (+ NW & Electron)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -212,11 +226,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172521926,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:40:56Z",
+            "last_commit": "2026-08-19T12:38:51Z",
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 31734
+            "stars": 31738
           }
         },
         {
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245578730,
             "language": "TypeScript",
             "last_commit": "2026-08-18T14:31:46Z",
             "owner": "ReactUnity",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78896316,
             "language": "TypeScript",
             "last_commit": "2026-06-02T13:56:21Z",
             "owner": "brianzinn",
@@ -251,7 +268,7 @@
       "title": "3D"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111610659,
             "language": "TypeScript",
             "last_commit": "2023-01-07T02:21:10Z",
             "owner": "kusti8",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193393505,
             "language": "TypeScript",
             "last_commit": "2023-11-03T01:50:26Z",
             "owner": "nodegui",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92038127,
             "language": "TypeScript",
             "last_commit": "2026-08-13T02:57:58Z",
             "owner": "clayrisser",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113725153,
             "language": "HTML",
             "last_commit": "2020-04-08T16:20:52Z",
             "owner": "longseespace",
@@ -313,7 +334,7 @@
       "title": "Desktop"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -322,11 +343,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-18T19:37:58Z",
+            "last_commit": "2026-08-19T12:13:05Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126359
+            "stars": 126364
           }
         },
         {
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176696892,
             "language": "TypeScript",
             "last_commit": "2023-08-23T06:47:47Z",
             "owner": "shirakaba",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39819235,
             "language": "JavaScript",
             "last_commit": "2017-07-19T06:49:51Z",
             "owner": "yuchi",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180234202,
             "language": "JavaScript",
             "last_commit": "2025-03-05T03:35:15Z",
             "owner": "Rel1cx",
@@ -375,7 +400,7 @@
       "title": "Mobile"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -384,11 +409,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94061307,
             "language": "TypeScript",
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39690
+            "stars": 39692
           }
         },
         {
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39509091,
             "language": "JavaScript",
             "last_commit": "2021-05-06T19:44:11Z",
             "owner": "Yomguithereal",
@@ -409,7 +436,7 @@
       "title": "Command Line Interface"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -418,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100723033,
             "language": "JavaScript",
             "last_commit": "2022-03-30T15:33:14Z",
             "owner": "raphamorim",
@@ -432,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 135634420,
             "language": "JavaScript",
             "last_commit": "2023-08-21T14:05:35Z",
             "owner": "raphamorim",
@@ -446,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42212401,
             "language": "JavaScript",
             "last_commit": "2020-10-16T14:36:34Z",
             "owner": "sergioramos",
@@ -457,7 +487,7 @@
       "title": "Television"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -466,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35565534,
             "language": "JavaScript",
             "last_commit": "2023-01-03T17:54:21Z",
             "owner": "iamdustan",
@@ -480,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218877030,
             "language": "C",
             "last_commit": "2022-10-07T15:24:20Z",
             "owner": "doodlewind",
@@ -494,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117051722,
             "language": "JavaScript",
             "last_commit": "2018-03-24T20:09:50Z",
             "owner": "alexanderson1993",
@@ -505,7 +538,7 @@
       "title": "Hardware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -514,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 538663825,
             "language": "TypeScript",
             "last_commit": "2026-08-11T14:15:18Z",
             "owner": "resend",
@@ -528,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48901605,
             "language": "JavaScript",
             "last_commit": "2023-03-01T11:25:06Z",
             "owner": "chromakode",
@@ -542,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37676432,
             "language": "JavaScript",
             "last_commit": "2023-03-01T09:16:02Z",
             "owner": "revivek",
@@ -553,7 +589,7 @@
       "title": "Email"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -562,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71293321,
             "language": "TypeScript",
             "last_commit": "2026-08-17T23:03:40Z",
             "owner": "diegomura",
@@ -576,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100776973,
             "language": "JavaScript",
             "last_commit": "2020-09-10T07:27:24Z",
             "owner": "nitin42",
@@ -590,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81584021,
             "language": null,
             "last_commit": "2017-02-10T16:52:14Z",
             "owner": "ericvicenti",
@@ -604,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 918273666,
             "language": "TypeScript",
             "last_commit": "2025-01-19T22:57:40Z",
             "owner": "dmk",
@@ -618,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178656129,
             "language": "JavaScript",
             "last_commit": "2019-05-25T20:22:50Z",
             "owner": "johnhenry",
@@ -629,7 +670,7 @@
       "title": "File"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -638,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89012427,
             "language": "TypeScript",
             "last_commit": "2025-11-06T00:54:06Z",
             "owner": "airbnb",
@@ -652,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201732237,
             "language": "TypeScript",
             "last_commit": "2026-04-14T01:26:09Z",
             "owner": "react-figma",
@@ -663,7 +706,7 @@
       "title": "Design"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -672,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192596320,
             "language": "C",
             "last_commit": "2024-12-14T12:51:31Z",
             "owner": "JoshMarler",
@@ -686,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147025082,
             "language": "JavaScript",
             "last_commit": "2023-01-04T11:39:54Z",
             "owner": "jamesseanwright",
@@ -697,7 +742,7 @@
       "title": "Music"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -706,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253400602,
             "language": "TypeScript",
             "last_commit": "2023-01-06T02:53:01Z",
             "owner": "maxchehab",
@@ -720,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436142657,
             "language": "TypeScript",
             "last_commit": "2024-01-02T14:54:27Z",
             "owner": "itsMapleLeaf",
@@ -734,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 249490395,
             "language": "TypeScript",
             "last_commit": "2024-09-18T17:37:46Z",
             "owner": "urban-bot",
@@ -748,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110478494,
             "language": "JavaScript",
             "last_commit": "2017-11-14T01:23:37Z",
             "owner": "andreyvital",
@@ -759,7 +808,7 @@
       "title": "Chatbot"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -768,11 +817,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T11:16:23Z",
+            "last_commit": "2026-08-19T12:40:37Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247417
+            "stars": 247420
           }
         },
         {
@@ -782,11 +832,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T11:16:23Z",
+            "last_commit": "2026-08-19T12:40:37Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247417
+            "stars": 247420
           }
         },
         {
@@ -796,11 +847,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 994110247,
             "language": "Rust",
             "last_commit": "2026-08-19T01:45:22Z",
             "owner": "kane50613",
             "repo": "takumi",
-            "stars": 2814
+            "stars": 2818
           }
         },
         {
@@ -810,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336681656,
             "language": "JavaScript",
             "last_commit": "2023-04-20T00:49:50Z",
             "owner": "reactend",
@@ -824,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205067830,
             "language": "TypeScript",
             "last_commit": "2024-01-12T10:33:48Z",
             "owner": "clayrisser",
@@ -838,8 +892,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45955773,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T06:00:35Z",
+            "last_commit": "2026-08-19T06:21:24Z",
             "owner": "sidorares",
             "repo": "react-x11",
             "stars": 247
@@ -852,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76202976,
             "language": "JavaScript",
             "last_commit": "2022-12-10T17:03:34Z",
             "owner": "havardh",
@@ -866,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 718697253,
             "language": "JavaScript",
             "last_commit": "2023-11-15T17:07:57Z",
             "owner": "bufferhead-code",
@@ -880,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 221092835,
             "language": "TypeScript",
             "last_commit": "2024-03-17T15:29:12Z",
             "owner": "ts-graphviz",
@@ -891,7 +949,7 @@
       "title": "Miscellaneous"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -900,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104637286,
             "language": "JavaScript",
             "last_commit": "2022-12-06T19:46:34Z",
             "owner": "nitin42",
@@ -914,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57908709,
             "language": "JavaScript",
             "last_commit": "2017-12-05T18:52:41Z",
             "owner": "iamdustan",
@@ -928,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218877030,
             "language": "C",
             "last_commit": "2022-10-07T15:24:20Z",
             "owner": "doodlewind",
@@ -942,6 +1003,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228701680,
             "language": "TypeScript",
             "last_commit": "2026-08-13T03:02:45Z",
             "owner": "clayrisser",
@@ -951,16 +1013,12 @@
         }
       ],
       "title": "Learn"
-    },
-    {
-      "description": "To the extent possible under law, Chen-Tsu Lin has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:00:37.396Z",
+    "last_updated": "2026-08-19T12:49:20.604Z",
     "original_repository": "chentsulin/awesome-react-renderer",
+    "original_repository_id": 43588619,
     "original_repository_sha": "d229139ebbf2592c079a484da672748a62bf9033",
     "enhanced_repository": "enhansome/enhansome-react-renderer",
     "enhanced_repository_description": null,
