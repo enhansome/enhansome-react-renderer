@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:40:37Z",
+            "last_commit": "2026-08-19T17:57:20Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247420
+            "stars": 247431
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-18T19:39:28Z",
             "owner": "Shopify",
             "repo": "react-native-skia",
-            "stars": 8516
+            "stars": 8517
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-19T12:38:51Z",
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 31738
+            "stars": 31742
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-18T14:31:46Z",
             "owner": "ReactUnity",
             "repo": "core",
-            "stars": 890
+            "stars": 891
           }
         },
         {
@@ -345,10 +345,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-19T12:13:05Z",
+            "last_commit": "2026-08-19T19:43:29Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126364
+            "stars": 126368
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39692
+            "stars": 39694
           }
         },
         {
@@ -549,10 +549,10 @@
             "archived": false,
             "id": 538663825,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T14:15:18Z",
+            "last_commit": "2026-08-19T20:28:52Z",
             "owner": "resend",
             "repo": "react-email",
-            "stars": 19632
+            "stars": 19635
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2026-08-17T23:03:40Z",
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16749
+            "stars": 16750
           }
         },
         {
@@ -819,10 +819,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:40:37Z",
+            "last_commit": "2026-08-19T17:57:20Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247420
+            "stars": 247431
           }
         },
         {
@@ -834,10 +834,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:40:37Z",
+            "last_commit": "2026-08-19T17:57:20Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247420
+            "stars": 247431
           }
         },
         {
@@ -849,10 +849,10 @@
             "archived": false,
             "id": 994110247,
             "language": "Rust",
-            "last_commit": "2026-08-19T01:45:22Z",
+            "last_commit": "2026-08-20T04:32:35Z",
             "owner": "kane50613",
             "repo": "takumi",
-            "stars": 2818
+            "stars": 2844
           }
         },
         {
@@ -894,7 +894,7 @@
             "archived": false,
             "id": 45955773,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T06:21:24Z",
+            "last_commit": "2026-08-20T01:48:38Z",
             "owner": "sidorares",
             "repo": "react-x11",
             "stars": 247
@@ -1016,7 +1016,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:20.604Z",
+    "last_updated": "2026-08-20T06:00:34.009Z",
     "original_repository": "chentsulin/awesome-react-renderer",
     "original_repository_id": 43588619,
     "original_repository_sha": "d229139ebbf2592c079a484da672748a62bf9033",
