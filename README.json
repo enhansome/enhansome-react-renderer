@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T16:14:40Z",
+            "last_commit": "2026-08-23T23:19:42Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247669
+            "stars": 247683
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2020-12-11T10:19:14Z",
             "owner": "facebookarchive",
             "repo": "react-360",
-            "stars": 8701
+            "stars": 8700
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 425845325,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T09:25:06Z",
+            "last_commit": "2026-08-23T17:13:27Z",
             "owner": "Shopify",
             "repo": "react-native-skia",
-            "stars": 8521
+            "stars": 8522
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-19T12:38:51Z",
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 31768
+            "stars": 31779
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 245578730,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T14:31:46Z",
+            "last_commit": "2026-08-24T01:53:16Z",
             "owner": "ReactUnity",
             "repo": "core",
-            "stars": 892
+            "stars": 893
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-22T21:10:22Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126394
+            "stars": 126400
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39715
+            "stars": 39720
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-19T20:28:52Z",
             "owner": "resend",
             "repo": "react-email",
-            "stars": 19647
+            "stars": 19654
           }
         },
         {
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 71293321,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T02:58:22Z",
+            "last_commit": "2026-08-24T02:40:44Z",
             "owner": "diegomura",
             "repo": "react-pdf",
             "stars": 16754
@@ -684,7 +684,7 @@
             "last_commit": "2025-11-06T00:54:06Z",
             "owner": "airbnb",
             "repo": "react-sketchapp",
-            "stars": 14869
+            "stars": 14868
           }
         },
         {
@@ -819,10 +819,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T16:14:40Z",
+            "last_commit": "2026-08-23T23:19:42Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247669
+            "stars": 247683
           }
         },
         {
@@ -834,10 +834,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T16:14:40Z",
+            "last_commit": "2026-08-23T23:19:42Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247669
+            "stars": 247683
           }
         },
         {
@@ -849,10 +849,10 @@
             "archived": false,
             "id": 994110247,
             "language": "Rust",
-            "last_commit": "2026-08-23T05:51:22Z",
+            "last_commit": "2026-08-23T16:50:40Z",
             "owner": "kane50613",
             "repo": "takumi",
-            "stars": 2861
+            "stars": 2869
           }
         },
         {
@@ -894,7 +894,7 @@
             "archived": false,
             "id": 45955773,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T04:39:54Z",
+            "last_commit": "2026-08-23T21:58:28Z",
             "owner": "sidorares",
             "repo": "react-x11",
             "stars": 247
@@ -1016,7 +1016,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:59:16.239Z",
+    "last_updated": "2026-08-24T06:07:08.488Z",
     "original_repository": "chentsulin/awesome-react-renderer",
     "original_repository_id": 43588619,
     "original_repository_sha": "d229139ebbf2592c079a484da672748a62bf9033",
