@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T22:52:04Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247883
+            "stars": 247884
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39732
+            "stars": 39733
           }
         },
         {
@@ -822,7 +822,7 @@
             "last_commit": "2026-08-24T22:52:04Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247883
+            "stars": 247884
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2026-08-24T22:52:04Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247883
+            "stars": 247884
           }
         },
         {
@@ -849,7 +849,7 @@
             "archived": false,
             "id": 994110247,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:46:16Z",
+            "last_commit": "2026-08-25T06:21:35Z",
             "owner": "kane50613",
             "repo": "takumi",
             "stars": 2876
@@ -1016,7 +1016,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:48.805Z",
+    "last_updated": "2026-08-25T06:26:41.793Z",
     "original_repository": "chentsulin/awesome-react-renderer",
     "original_repository_id": 43588619,
     "original_repository_sha": "d229139ebbf2592c079a484da672748a62bf9033",
