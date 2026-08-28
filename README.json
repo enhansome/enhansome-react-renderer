@@ -12,11 +12,12 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T19:53:08Z",
+            "last_commit": "2026-08-28T11:10:40Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247982
-          }
+            "stars": 248008
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Flipboard",
             "repo": "react-canvas",
             "stars": 13198
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "facebookarchive",
             "repo": "react-360",
             "stars": 8699
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-23T17:13:27Z",
             "owner": "Shopify",
             "repo": "react-native-skia",
-            "stars": 8529
-          }
+            "stars": 8531
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "vincentriemer",
             "repo": "react-native-dom",
             "stars": 3240
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-01-16T14:13:41Z",
             "owner": "pixijs",
             "repo": "pixi-react",
-            "stars": 2884
-          }
+            "stars": 2885
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "reactjs",
             "repo": "react-art",
             "stars": 1985
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "web-perf",
             "repo": "react-worker-dom",
             "stars": 947
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "michalochman",
             "repo": "react-pixi-fiber",
             "stars": 880
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mohebifar",
             "repo": "konsul",
             "stars": 617
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "jiayihu",
             "repo": "react-tiny-dom",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "Bowen7",
             "repo": "react-rough-fiber",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "giulioz",
             "repo": "react-ol-fiber",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "amilajack",
             "repo": "react-skia-fiber",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Web (+ NW & Electron)"
@@ -228,11 +242,12 @@
             "archived": false,
             "id": 172521926,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:27:50Z",
+            "last_commit": "2026-08-28T15:28:41Z",
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 31806
-          }
+            "stars": 31817
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "ReactUnity",
             "repo": "core",
             "stars": 893
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "brianzinn",
             "repo": "react-babylonjs",
             "stars": 889
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "3D"
@@ -282,8 +299,9 @@
             "last_commit": "2023-01-07T02:21:10Z",
             "owner": "kusti8",
             "repo": "proton-native",
-            "stars": 10884
-          }
+            "stars": 10885
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "nodegui",
             "repo": "react-nodegui",
             "stars": 6181
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -312,8 +331,9 @@
             "last_commit": "2026-08-13T02:57:58Z",
             "owner": "clayrisser",
             "repo": "react-gtk",
-            "stars": 359
-          }
+            "stars": 360
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "longseespace",
             "repo": "react-qml",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Desktop"
@@ -345,11 +366,12 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-27T15:41:42Z",
+            "last_commit": "2026-08-28T15:33:44Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126428
-          }
+            "stars": 126441
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "shirakaba",
             "repo": "react-nativescript",
             "stars": 291
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "yuchi",
             "repo": "react-titanium",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "Rel1cx",
             "repo": "react-jsbox",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Mobile"
@@ -414,8 +439,9 @@
             "last_commit": "2026-08-25T18:52:24Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39746
-          }
+            "stars": 39754
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "Yomguithereal",
             "repo": "react-blessed",
             "stars": 4495
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Command Line Interface"
@@ -451,7 +478,8 @@
             "owner": "raphamorim",
             "repo": "react-tv",
             "stars": 2032
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "raphamorim",
             "repo": "react-ape",
             "stars": 1574
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "sergioramos",
             "repo": "react-tvml",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Television"
@@ -502,7 +532,8 @@
             "owner": "iamdustan",
             "repo": "react-hardware",
             "stars": 806
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -517,7 +548,8 @@
             "owner": "doodlewind",
             "repo": "react-ssd1306",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "alexanderson1993",
             "repo": "react-dmx",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Hardware"
@@ -552,8 +585,9 @@
             "last_commit": "2026-08-25T18:31:47Z",
             "owner": "resend",
             "repo": "react-email",
-            "stars": 19675
-          }
+            "stars": 19682
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -568,7 +602,8 @@
             "owner": "chromakode",
             "repo": "react-html-email",
             "stars": 890
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -583,7 +618,8 @@
             "owner": "revivek",
             "repo": "oy",
             "stars": 829
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Email"
@@ -600,11 +636,12 @@
             "archived": false,
             "id": 71293321,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:23:49Z",
+            "last_commit": "2026-08-27T23:35:14Z",
             "owner": "diegomura",
             "repo": "react-pdf",
             "stars": 16761
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -619,7 +656,8 @@
             "owner": "nitin42",
             "repo": "redocx",
             "stars": 1433
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -634,7 +672,8 @@
             "owner": "ericvicenti",
             "repo": "react-fs-renderer",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -649,7 +688,8 @@
             "owner": "dmk",
             "repo": "react-tf",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -664,7 +704,8 @@
             "owner": "johnhenry",
             "repo": "fileable",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "File"
@@ -685,7 +726,8 @@
             "owner": "airbnb",
             "repo": "react-sketchapp",
             "stars": 14866
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -700,7 +742,8 @@
             "owner": "react-figma",
             "repo": "react-figma",
             "stars": 2692
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Design"
@@ -721,7 +764,8 @@
             "owner": "JoshMarler",
             "repo": "react-juce",
             "stars": 834
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -736,7 +780,8 @@
             "owner": "jamesseanwright",
             "repo": "wax",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Music"
@@ -757,7 +802,8 @@
             "owner": "maxchehab",
             "repo": "phelia",
             "stars": 1903
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -772,7 +818,8 @@
             "owner": "itsMapleLeaf",
             "repo": "reacord",
             "stars": 782
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -787,7 +834,8 @@
             "owner": "urban-bot",
             "repo": "urban-bot",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -802,7 +850,8 @@
             "owner": "andreyvital",
             "repo": "react-slack-renderer",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Chatbot"
@@ -819,11 +868,12 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T19:53:08Z",
+            "last_commit": "2026-08-28T11:10:40Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247982
-          }
+            "stars": 248008
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -834,11 +884,12 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T19:53:08Z",
+            "last_commit": "2026-08-28T11:10:40Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247982
-          }
+            "stars": 248008
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -849,11 +900,12 @@
             "archived": false,
             "id": 994110247,
             "language": "Rust",
-            "last_commit": "2026-08-27T13:01:34Z",
+            "last_commit": "2026-08-28T17:37:36Z",
             "owner": "kane50613",
             "repo": "takumi",
-            "stars": 2891
-          }
+            "stars": 2894
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -868,7 +920,8 @@
             "owner": "reactend",
             "repo": "reactend-express",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -883,7 +936,8 @@
             "owner": "clayrisser",
             "repo": "react-ast",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -894,11 +948,12 @@
             "archived": false,
             "id": 45955773,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:57:41Z",
+            "last_commit": "2026-08-28T03:50:45Z",
             "owner": "sidorares",
             "repo": "react-x11",
-            "stars": 248
-          }
+            "stars": 253
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -913,7 +968,8 @@
             "owner": "havardh",
             "repo": "workflow",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -928,7 +984,8 @@
             "owner": "bufferhead-code",
             "repo": "react-minecraft",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1000,8 @@
             "owner": "ts-graphviz",
             "repo": "react",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Miscellaneous"
@@ -964,7 +1022,8 @@
             "owner": "nitin42",
             "repo": "Making-a-custom-React-renderer",
             "stars": 1314
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1038,8 @@
             "owner": "iamdustan",
             "repo": "tiny-react-renderer",
             "stars": 781
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1054,8 @@
             "owner": "doodlewind",
             "repo": "react-ssd1306",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         },
         {
           "node_type": "item",
@@ -1009,14 +1070,15 @@
             "owner": "clayrisser",
             "repo": "create-react-renderer",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T17:41:46.449Z"
         }
       ],
       "title": "Learn"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:47:04.590Z",
+    "last_updated": "2026-08-28T17:41:46.449Z",
     "original_repository_info": {
       "archived": false,
       "id": 43588619,
