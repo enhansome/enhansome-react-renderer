@@ -19,7 +19,7 @@
             "open_issues": 1281,
             "owner": "react",
             "repo": "react",
-            "stars": 248015,
+            "stars": 248024,
             "topics": [
               "declarative",
               "frontend",
@@ -373,7 +373,7 @@
             "open_issues": 51,
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 31821,
+            "stars": 31824,
             "topics": [
               "3d",
               "animation",
@@ -585,10 +585,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-28T18:53:52Z",
-            "open_issues": 1102,
+            "open_issues": 1103,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126447,
+            "stars": 126446,
             "topics": [
               "android",
               "app-framework",
@@ -702,7 +702,7 @@
             "open_issues": 32,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39755,
+            "stars": 39756,
             "topics": [
               "cli",
               "command-line",
@@ -939,7 +939,7 @@
             "open_issues": 29,
             "owner": "resend",
             "repo": "react-email",
-            "stars": 19685,
+            "stars": 19686,
             "topics": [
               "email",
               "hacktoberfest"
@@ -1011,7 +1011,7 @@
             "open_issues": 309,
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16761,
+            "stars": 16763,
             "topics": [
               "flexbox",
               "pdf",
@@ -1368,7 +1368,7 @@
             "open_issues": 1281,
             "owner": "react",
             "repo": "react",
-            "stars": 248015,
+            "stars": 248024,
             "topics": [
               "declarative",
               "frontend",
@@ -1396,7 +1396,7 @@
             "open_issues": 1281,
             "owner": "react",
             "repo": "react",
-            "stars": 248015,
+            "stars": 248024,
             "topics": [
               "declarative",
               "frontend",
@@ -1420,11 +1420,11 @@
             "id": 994110247,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:21:49Z",
-            "open_issues": 6,
+            "last_commit": "2026-08-29T07:46:21Z",
+            "open_issues": 4,
             "owner": "kane50613",
             "repo": "takumi",
-            "stars": 2896,
+            "stars": 2895,
             "topics": [
               "cloudflare-workers",
               "gif",
@@ -1712,7 +1712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:50.228Z",
+    "last_updated": "2026-08-29T11:47:02.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React Renderer",
