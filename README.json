@@ -19,7 +19,7 @@
             "open_issues": 1406,
             "owner": "react",
             "repo": "react",
-            "stars": 250862,
+            "stars": 250865,
             "topics": [
               "declarative",
               "frontend",
@@ -86,10 +86,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T18:53:26Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "Shopify",
             "repo": "react-native-skia",
-            "stars": 8632,
+            "stars": 8634,
             "topics": [
               "react",
               "react-native",
@@ -373,7 +373,7 @@
             "open_issues": 16,
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 32680,
+            "stars": 32685,
             "topics": [
               "3d",
               "animation",
@@ -588,7 +588,7 @@
             "open_issues": 1110,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126787,
+            "stars": 126789,
             "topics": [
               "android",
               "app-framework",
@@ -702,7 +702,7 @@
             "open_issues": 35,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 40012,
+            "stars": 40016,
             "topics": [
               "cli",
               "command-line",
@@ -1368,7 +1368,7 @@
             "open_issues": 1406,
             "owner": "react",
             "repo": "react",
-            "stars": 250862,
+            "stars": 250865,
             "topics": [
               "declarative",
               "frontend",
@@ -1396,7 +1396,7 @@
             "open_issues": 1406,
             "owner": "react",
             "repo": "react",
-            "stars": 250862,
+            "stars": 250865,
             "topics": [
               "declarative",
               "frontend",
@@ -1517,7 +1517,7 @@
             "id": 45955773,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:16:30Z",
+            "last_commit": "2026-10-03T08:00:36Z",
             "open_issues": 31,
             "owner": "sidorares",
             "repo": "react-x11",
@@ -1712,7 +1712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:19.943Z",
+    "last_updated": "2026-10-03T10:35:13.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React Renderer",
