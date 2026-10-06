@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-05T18:18:05Z",
-            "open_issues": 1418,
+            "open_issues": 1419,
             "owner": "react",
             "repo": "react",
-            "stars": 250907,
+            "stars": 250913,
             "topics": [
               "declarative",
               "frontend",
@@ -85,7 +85,7 @@
             "id": 425845325,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:12:52Z",
+            "last_commit": "2026-10-06T12:04:07Z",
             "open_issues": 112,
             "owner": "wcandillon",
             "repo": "react-native-skia",
@@ -373,7 +373,7 @@
             "open_issues": 14,
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 32755,
+            "stars": 32756,
             "topics": [
               "3d",
               "animation",
@@ -584,11 +584,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:11:52Z",
-            "open_issues": 1138,
+            "last_commit": "2026-10-06T11:48:45Z",
+            "open_issues": 1141,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126803,
+            "stars": 126804,
             "topics": [
               "android",
               "app-framework",
@@ -702,7 +702,7 @@
             "open_issues": 33,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 40050,
+            "stars": 40052,
             "topics": [
               "cli",
               "command-line",
@@ -1008,7 +1008,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-06T01:31:39Z",
-            "open_issues": 337,
+            "open_issues": 338,
             "owner": "diegomura",
             "repo": "react-pdf",
             "stars": 16817,
@@ -1192,7 +1192,7 @@
             "open_issues": 76,
             "owner": "JoshMarler",
             "repo": "react-juce",
-            "stars": 836,
+            "stars": 837,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:46.449Z"
@@ -1365,10 +1365,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-05T18:18:05Z",
-            "open_issues": 1418,
+            "open_issues": 1419,
             "owner": "react",
             "repo": "react",
-            "stars": 250907,
+            "stars": 250913,
             "topics": [
               "declarative",
               "frontend",
@@ -1393,10 +1393,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-05T18:18:05Z",
-            "open_issues": 1418,
+            "open_issues": 1419,
             "owner": "react",
             "repo": "react",
-            "stars": 250907,
+            "stars": 250913,
             "topics": [
               "declarative",
               "frontend",
@@ -1712,7 +1712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:28:43.954Z",
+    "last_updated": "2026-10-06T12:12:39.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React Renderer",
