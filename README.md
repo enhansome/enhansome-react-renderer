@@ -29,9 +29,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Web (+ NW & Electron)
 
-* [react-dom](https://github.com/facebook/react/tree/main/packages/react-dom) ⭐ 252,437 | 🐛 1,512 | 🌐 JavaScript | 📅 2026-11-09 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-* [react-canvas](https://github.com/Flipboard/react-canvas) ⭐ 13,189 | 🐛 79 | 🌐 JavaScript | 📅 2022-09-27 - High performance canvas rendering for React components.
-* [react-native-skia](https://github.com/shopify/react-native-skia) ⭐ 8,775 | 🐛 119 | 🌐 TypeScript | 📅 2026-11-09 - React Renderer for the Skia drawing library.
+* [react-dom](https://github.com/facebook/react/tree/main/packages/react-dom) ⭐ 252,475 | 🐛 1,520 | 🌐 JavaScript | 📅 2026-11-09 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [react-canvas](https://github.com/Flipboard/react-canvas) ⭐ 13,188 | 🐛 79 | 🌐 JavaScript | 📅 2022-09-27 - High performance canvas rendering for React components.
+* [react-native-skia](https://github.com/shopify/react-native-skia) ⭐ 8,777 | 🐛 115 | 🌐 TypeScript | 📅 2026-11-10 - React Renderer for the Skia drawing library.
 * [react-360](https://github.com/facebookarchive/react-360) ⚠️ Archived (archived) - Render React components in WebGL/WebVR for VR apps.
 * [react-native-dom](https://github.com/vincentriemer/react-native-dom) ⭐ 3,242 | 🐛 58 | 🌐 JavaScript | 📅 2022-12-09 An experimental, comprehensive port of React Native to the web.
 * [react-pixi](https://github.com/inlet/react-pixi) ⭐ 2,891 | 🐛 45 | 🌐 TypeScript | 📅 2026-01-16 - open-source, production-ready library to render high performant PIXI applications in React.
@@ -48,7 +48,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## 3D
 
-* [react-three-fiber](https://github.com/react-spring/react-three-fiber) ⭐ 33,602 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-21 - React reconciler for Threejs on the web and react-native.
+* [react-three-fiber](https://github.com/react-spring/react-three-fiber) ⭐ 33,625 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-21 - React reconciler for Threejs on the web and react-native.
 * [react-unity](https://github.com/ReactUnity/core) ⭐ 904 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-02 - render React components to Unity UI
 * [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 891 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-02 - React Renderer for Babylon.js (web and native)
 
@@ -65,7 +65,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Mobile
 
-* [react-native](https://github.com/facebook/react-native) ⭐ 126,884 | 🐛 1,403 | 🌐 C++ | 📅 2026-11-09 - A framework for building native apps with React.
+* [react-native](https://github.com/facebook/react-native) ⭐ 126,892 | 🐛 1,401 | 🌐 C++ | 📅 2026-11-10 - A framework for building native apps with React.
 * [react-nativescript](https://github.com/shirakaba/react-nativescript) ⭐ 291 | 🐛 14 | 🌐 TypeScript | 📅 2023-08-23 - React renderer for NativeScript
 * [react-titanium](https://github.com/yuchi/react-titanium) ⭐ 107 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-19 - React custom renderer for Appcelerator® Titanium™ SDK.
 * [react-jsbox](https://github.com/Nicify/react-jsbox) ⭐ 82 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-05 - React custom renderer for rendering native iOS UIKit with React + [JSBox](https://docs.xteko.com/#/en/uikit/intro)
@@ -74,7 +74,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Command Line Interface
 
-* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,252 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-31 - React for interactive command-line apps.
+* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,257 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-10 - React for interactive command-line apps.
 * [react-blessed](https://github.com/Yomguithereal/react-blessed) ⭐ 4,489 | 🐛 40 | 🌐 JavaScript | 📅 2021-05-06 - A react renderer for blessed.
 * [terminosaurus](https://mael.dev/terminosaurus/) - A powerful terminal UI library for React, with CSS-like support
 
@@ -99,7 +99,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Email
 
-* [react-email](https://github.com/resendlabs/react-email) ⭐ 19,923 | 🐛 50 | 🌐 TypeScript | 📅 2026-11-06 - Build and send emails using React.
+* [react-email](https://github.com/resendlabs/react-email) ⭐ 19,921 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-10 - Build and send emails using React.
 * [react-html-email](https://github.com/chromakode/react-html-email) ⭐ 889 | 🐛 34 | 🌐 JavaScript | 📅 2023-03-01 (unmaintained) - Create HTML email templates using React without dealing with archaic HTML elements.
 * [oy](https://github.com/revivek/oy) ⭐ 828 | 🐛 18 | 🌐 JavaScript | 📅 2023-03-01 - Render HTML emails on the server with React.
 
@@ -107,8 +107,8 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## File
 
-* [react-pdf](https://github.com/diegomura/react-pdf) ⭐ 16,853 | 🐛 365 | 🌐 TypeScript | 📅 2026-11-03 - Create PDF files using React.
-* [redocx](https://github.com/nitin42/redocx) ⭐ 1,430 | 🐛 13 | 🌐 JavaScript | 📅 2020-09-10 - Create word documents using React.
+* [react-pdf](https://github.com/diegomura/react-pdf) ⭐ 16,853 | 🐛 366 | 🌐 TypeScript | 📅 2026-11-03 - Create PDF files using React.
+* [redocx](https://github.com/nitin42/redocx) ⭐ 1,431 | 🐛 13 | 🌐 JavaScript | 📅 2020-09-10 - Create word documents using React.
 * [react-fs-renderer](https://github.com/ericvicenti/react-fs-renderer) ⭐ 113 | 🐛 2 | 📅 2017-02-10 - Declaratively render a tree of files with JSX.
 * [react-tf](https://github.com/dmk/react-tf) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-19 - Render Terraform HCL code using JSX Templates.
 * [fileable](https://github.com/johnhenry/fileable) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-07 - Render file trees using JSX Templates.
@@ -140,12 +140,12 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Miscellaneous
 
-* [noop-renderer](https://github.com/facebook/react/tree/main/packages/react-noop-renderer) ⭐ 252,437 | 🐛 1,512 | 🌐 JavaScript | 📅 2026-11-09 - This is a renderer of React that doesn't have a render target output. It is useful to demonstrate the internals of the reconciler in isolation and for testing semantics of reconciliation separate from the host environment.
-* [react-test-renderer](https://github.com/facebook/react/tree/main/packages/react-test-renderer) ⭐ 252,437 | 🐛 1,512 | 🌐 JavaScript | 📅 2026-11-09 - React package for snapshot testing.
-* [Takumi](https://github.com/kane50613/takumi) ⭐ 3,186 | 🐛 16 | 🌐 Rust | 📅 2026-11-09 - Render React components to PNG.
+* [noop-renderer](https://github.com/facebook/react/tree/main/packages/react-noop-renderer) ⭐ 252,475 | 🐛 1,520 | 🌐 JavaScript | 📅 2026-11-09 - This is a renderer of React that doesn't have a render target output. It is useful to demonstrate the internals of the reconciler in isolation and for testing semantics of reconciliation separate from the host environment.
+* [react-test-renderer](https://github.com/facebook/react/tree/main/packages/react-test-renderer) ⭐ 252,475 | 🐛 1,520 | 🌐 JavaScript | 📅 2026-11-09 - React package for snapshot testing.
+* [Takumi](https://github.com/kane50613/takumi) ⭐ 3,189 | 🐛 26 | 🌐 Rust | 📅 2026-11-10 - Render React components to PNG.
 * [react-xpress](https://github.com/gigantz/react-xpress) ⭐ 398 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-20 - React for building Node.js server.
 * [react-ast](https://github.com/codejamninja/react-ast) ⭐ 337 | 🐛 5 | 🌐 TypeScript | 📅 2024-01-12 - React AST is the ultimate meta programming tool that uses react to render abstract syntax trees. It can be used to build powerful code generators and babel plugins that are easy to read and can scale.
-* [react-x11](https://github.com/sidorares/react-x11) ⭐ 265 | 🐛 37 | 🌐 JavaScript | 📅 2026-11-08 - React renderer with X11 as a target.
+* [react-x11](https://github.com/sidorares/react-x11) ⭐ 265 | 🐛 37 | 🌐 JavaScript | 📅 2026-11-10 - React renderer with X11 as a target.
 * [workflow-react](https://github.com/havardh/workflow/tree/master/packages/workflow-react) ⭐ 156 | 🐛 48 | 🌐 JavaScript | 📅 2022-12-10 - render your desktop layout with React.
 * [React-Minecraft](https://github.com/bufferhead-code/react-minecraft) ⭐ 47 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-15 - Create Minecraft builds using React.js components
 * [@ts-graphviz/react](https://github.com/ts-graphviz/react) ⚠️ Archived - Graphviz-dot Renderer using React.
@@ -154,7 +154,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Learn
 
-* [Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer) ⭐ 1,316 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-06 - Tutorial on how to make a custom React renderer.
+* [Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer) ⭐ 1,317 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-06 - Tutorial on how to make a custom React renderer.
 * [tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) ⭐ 780 | 🐛 3 | 🌐 JavaScript | 📅 2017-12-05 - Learn you a React Renderer for Great Good.
 * [Render React to Embedded LCD](https://github.com/doodlewind/react-ssd1306/blob/master/docs/tutorial.md) ⭐ 385 | 🐛 3 | 🌐 C | 📅 2022-10-07 - Tutorial for building a React renderer that dynamically updates an OLED chip, based on the embeddable QuickJS intepreter, native C driver modules, and a HTML5 canvas emulator.
 * [Create React Renderer](https://github.com/codejamninja/create-react-renderer) ⭐ 34 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-13 - open source course to learn how to build a custom react renderer
@@ -170,4 +170,4 @@ To the extent possible under law, [Chen-Tsu Lin](https://github.com/chentsulin) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
