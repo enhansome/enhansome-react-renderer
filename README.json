@@ -15,11 +15,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T13:58:20Z",
-            "open_issues": 1576,
+            "last_commit": "2026-11-21T03:35:11Z",
+            "open_issues": 1583,
             "owner": "react",
             "repo": "react",
-            "stars": 252833,
+            "stars": 252844,
             "topics": [
               "declarative",
               "frontend",
@@ -47,7 +47,7 @@
             "open_issues": 79,
             "owner": "Flipboard",
             "repo": "react-canvas",
-            "stars": 13191,
+            "stars": 13192,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:46.449Z"
@@ -64,11 +64,11 @@
             "id": 425845325,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T10:37:53Z",
+            "last_commit": "2026-11-21T10:13:35Z",
             "open_issues": 111,
             "owner": "wcandillon",
             "repo": "react-native-skia",
-            "stars": 8784,
+            "stars": 8786,
             "topics": [
               "react",
               "react-native",
@@ -93,7 +93,7 @@
             "open_issues": 292,
             "owner": "facebookarchive",
             "repo": "react-360",
-            "stars": 8692,
+            "stars": 8691,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:46.449Z"
@@ -373,7 +373,7 @@
             "open_issues": 26,
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 33844,
+            "stars": 33856,
             "topics": [
               "3d",
               "animation",
@@ -584,11 +584,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-20T13:47:00Z",
-            "open_issues": 1446,
+            "last_commit": "2026-11-21T05:36:29Z",
+            "open_issues": 1454,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126977,
+            "stars": 126987,
             "topics": [
               "android",
               "app-framework",
@@ -702,7 +702,7 @@
             "open_issues": 33,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 40307,
+            "stars": 40314,
             "topics": [
               "cli",
               "command-line",
@@ -936,10 +936,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-18T15:14:55Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "resend",
             "repo": "react-email",
-            "stars": 19981,
+            "stars": 19983,
             "topics": [
               "email",
               "hacktoberfest"
@@ -1011,7 +1011,7 @@
             "open_issues": 376,
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16860,
+            "stars": 16863,
             "topics": [
               "flexbox",
               "pdf",
@@ -1364,11 +1364,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T13:58:20Z",
-            "open_issues": 1576,
+            "last_commit": "2026-11-21T03:35:11Z",
+            "open_issues": 1583,
             "owner": "react",
             "repo": "react",
-            "stars": 252833,
+            "stars": 252844,
             "topics": [
               "declarative",
               "frontend",
@@ -1392,11 +1392,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T13:58:20Z",
-            "open_issues": 1576,
+            "last_commit": "2026-11-21T03:35:11Z",
+            "open_issues": 1583,
             "owner": "react",
             "repo": "react",
-            "stars": 252833,
+            "stars": 252844,
             "topics": [
               "declarative",
               "frontend",
@@ -1420,11 +1420,11 @@
             "id": 994110247,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T14:11:13Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-21T08:54:33Z",
+            "open_issues": 16,
             "owner": "kane50613",
             "repo": "takumi",
-            "stars": 3218,
+            "stars": 3219,
             "topics": [
               "cloudflare-workers",
               "gif",
@@ -1712,7 +1712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T14:19:52.529Z",
+    "last_updated": "2026-11-21T13:41:18.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React Renderer",
@@ -1724,7 +1724,7 @@
       "open_issues": 9,
       "owner": "chentsulin",
       "repo": "awesome-react-renderer",
-      "stars": 2063,
+      "stars": 2062,
       "topics": []
     },
     "original_repository_sha": "d229139ebbf2592c079a484da672748a62bf9033",
